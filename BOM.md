@@ -29,14 +29,10 @@
 | W25Q128JVS | — | 1 | $5.02 | $5.02 | — |
 | 12MHz Crystal | — | 1 | $0.39 | $0.39 | — |
 | PCB w/ Stencil | — | 1 | $9.30 | $9.30 | — |
-| Solder Paste | — | 1 | $2.30 | $2.30 | — |
 | Tweezers | — | 1 | $1.80 | $1.80 | — |
-| 1N4148 Diodes | — | 16 | $0.50 | $8.00 | — |
-| Wire | — | 1 | $0.10 | $0.10 | — |
 | Screws | — | 4 | $0.12 | $0.48 | — |
-| Keycaps | — | 15 | $5.80 | $87.00 | — |
-| **Parts subtotal** | — | — | — | **$120.10** | — |
+| **Parts subtotal** | — | — | — | **$22.70** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$120.10** | — |
+| **Total** | — | — | — | **$22.70** | — |
 
-**$55.10 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$42.30 left of the tier's funding.
