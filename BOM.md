@@ -16,10 +16,8 @@
 | 10uF Capacitor | — | 2 | $0.10 | $0.20 | — |
 | USB_C_Receptacle_USB2.0_14P | — | 1 | $0.30 | $0.30 | — |
 | Conn_01x20 | — | 2 | $0.60 | $1.20 | — |
-| 10K Resistor | — | 1 | $0.10 | $0.10 | — |
-| MCP1700x-330xxTT | — | 1 | $0.50 | $0.50 | — |
-| **Parts subtotal** | — | — | — | **$3.40** | — |
+| **Parts subtotal** | — | — | — | **$2.80** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$3.40** | — |
+| **Total** | — | — | — | **$2.80** | — |
 
-$61.60 left of the tier's funding.
+$62.20 left of the tier's funding.
