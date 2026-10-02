@@ -28,11 +28,9 @@
 | MCP1700x-330xxTT | — | 1 | $0.50 | $0.50 | — |
 | W25Q128JVS | — | 1 | $5.02 | $5.02 | — |
 | 12MHz Crystal | — | 1 | $0.39 | $0.39 | — |
-| PCB w/ Stencil | — | 1 | $9.30 | $9.30 | — |
 | Tweezers | — | 1 | $1.80 | $1.80 | — |
-| Screws | — | 4 | $0.12 | $0.48 | — |
-| **Parts subtotal** | — | — | — | **$22.70** | — |
+| **Parts subtotal** | — | — | — | **$12.92** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$22.70** | — |
+| **Total** | — | — | — | **$12.92** | — |
 
-$42.30 left of the tier's funding.
+$52.08 left of the tier's funding.
