@@ -14,15 +14,12 @@
 | --- | --- | --- | --- | --- | --- |
 | 0.1uF Capacitor | — | 11 | $0.10 | $1.10 | — |
 | 10uF Capacitor | — | 2 | $0.10 | $0.20 | — |
-| 33pF Capacitor | — | 2 | $0.20 | $0.40 | — |
 | USB_C_Receptacle_USB2.0_14P | — | 1 | $0.30 | $0.30 | — |
 | Conn_01x20 | — | 2 | $0.60 | $1.20 | — |
-| 5.1K Resistor | — | 2 | $0.10 | $0.20 | — |
 | 10K Resistor | — | 1 | $0.10 | $0.10 | — |
 | MCP1700x-330xxTT | — | 1 | $0.50 | $0.50 | — |
-| Tweezers | — | 1 | $1.80 | $1.80 | — |
-| **Parts subtotal** | — | — | — | **$5.80** | — |
+| **Parts subtotal** | — | — | — | **$3.40** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$5.80** | — |
+| **Total** | — | — | — | **$3.40** | — |
 
-$59.20 left of the tier's funding.
+$61.60 left of the tier's funding.
