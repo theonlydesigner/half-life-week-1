@@ -35,10 +35,8 @@
 | Wire | — | 1 | $0.10 | $0.10 | — |
 | Screws | — | 4 | $0.12 | $0.48 | — |
 | Keycaps | — | 15 | $5.80 | $87.00 | — |
-| Solder Iron and stuff related to that | — | 1 | $3.20 | $3.20 | — |
-| Copper Wire for Matrix | — | 1 | $0.14 | $0.14 | — |
-| **Parts subtotal** | — | — | — | **$123.44** | — |
+| **Parts subtotal** | — | — | — | **$120.10** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$123.44** | — |
+| **Total** | — | — | — | **$120.10** | — |
 
-**$58.44 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$55.10 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
