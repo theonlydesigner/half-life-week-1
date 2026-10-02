@@ -37,9 +37,8 @@
 | Keycaps | — | 15 | $5.80 | $87.00 | — |
 | Solder Iron and stuff related to that | — | 1 | $3.20 | $3.20 | — |
 | Copper Wire for Matrix | — | 1 | $0.14 | $0.14 | — |
-| 3D print of case from printing-legion(Top and Bottom counts as one | — | 1 | $3.00 | $3.00 | — |
-| **Parts subtotal** | — | — | — | **$126.44** | — |
+| **Parts subtotal** | — | — | — | **$123.44** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$126.44** | — |
+| **Total** | — | — | — | **$123.44** | — |
 
-**$61.44 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$58.44 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
