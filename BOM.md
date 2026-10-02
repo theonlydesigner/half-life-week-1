@@ -31,7 +31,6 @@
 | PCB w/ Stencil | — | 1 | $9.30 | $9.30 | — |
 | Solder Paste | — | 1 | $2.30 | $2.30 | — |
 | Tweezers | — | 1 | $1.80 | $1.80 | — |
-| Cherry MX Switches | — | 16 | $15.30 | $244.80 | — |
 | 1N4148 Diodes | — | 16 | $0.50 | $8.00 | — |
 | Wire | — | 1 | $0.10 | $0.10 | — |
 | Screws | — | 4 | $0.12 | $0.48 | — |
@@ -39,8 +38,8 @@
 | Solder Iron and stuff related to that | — | 1 | $3.20 | $3.20 | — |
 | Copper Wire for Matrix | — | 1 | $0.14 | $0.14 | — |
 | 3D print of case from printing-legion(Top and Bottom counts as one | — | 1 | $3.00 | $3.00 | — |
-| **Parts subtotal** | — | — | — | **$371.24** | — |
+| **Parts subtotal** | — | — | — | **$126.44** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$371.24** | — |
+| **Total** | — | — | — | **$126.44** | — |
 
-**$306.24 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$61.44 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
