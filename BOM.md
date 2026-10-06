@@ -34,7 +34,6 @@
 | Cherry MX Switches | — | 1 | $15.30 | $15.30 | — |
 | 1N4148 Diodes | — | 1 | $0.50 | $0.50 | — |
 | Wire | — | 1 | $0.10 | $0.10 | — |
-| Screws | — | 1 | $0.00 | $0.00 | — |
 | Solder Iron and stuff related to that | — | 1 | $3.20 | $3.20 | — |
 | Copper Wire for Matrix | — | 1 | $0.14 | $0.14 | — |
 | **Parts subtotal** | — | — | — | **$56.32** | — |
