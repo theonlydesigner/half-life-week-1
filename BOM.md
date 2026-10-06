@@ -31,9 +31,8 @@
 | PCB w/ Stencil | — | 1 | $23.00 | $23.00 | — |
 | Solder Paste | — | 1 | $3.00 | $3.00 | — |
 | Tweezers | — | 1 | $1.80 | $1.80 | — |
-| Solder Iron and stuff related to that | — | 1 | $3.20 | $3.20 | — |
-| **Parts subtotal** | — | — | — | **$40.28** | — |
+| **Parts subtotal** | — | — | — | **$37.08** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$40.28** | — |
+| **Total** | — | — | — | **$37.08** | — |
 
-**$10.28 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$7.08 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
