@@ -31,11 +31,10 @@
 | PCB w/ Stencil | — | 1 | $23.00 | $23.00 | — |
 | Solder Paste | — | 1 | $3.00 | $3.00 | — |
 | Tweezers | — | 1 | $1.80 | $1.80 | — |
-| Cherry MX Switches | — | 1 | $15.30 | $15.30 | — |
 | Solder Iron and stuff related to that | — | 1 | $3.20 | $3.20 | — |
 | Copper Wire for Matrix | — | 1 | $0.14 | $0.14 | — |
-| **Parts subtotal** | — | — | — | **$55.72** | — |
+| **Parts subtotal** | — | — | — | **$40.42** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$55.72** | — |
+| **Total** | — | — | — | **$40.42** | — |
 
-**$25.72 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$10.42 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
