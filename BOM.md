@@ -33,11 +33,10 @@
 | Tweezers | — | 1 | $1.80 | $1.80 | — |
 | Cherry MX Switches | — | 1 | $15.30 | $15.30 | — |
 | 1N4148 Diodes | — | 1 | $0.50 | $0.50 | — |
-| Wire | — | 1 | $0.10 | $0.10 | — |
 | Solder Iron and stuff related to that | — | 1 | $3.20 | $3.20 | — |
 | Copper Wire for Matrix | — | 1 | $0.14 | $0.14 | — |
-| **Parts subtotal** | — | — | — | **$56.32** | — |
+| **Parts subtotal** | — | — | — | **$56.22** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$56.32** | — |
+| **Total** | — | — | — | **$56.22** | — |
 
-**$26.32 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$26.22 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
