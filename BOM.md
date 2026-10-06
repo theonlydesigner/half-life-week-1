@@ -35,11 +35,10 @@
 | 1N4148 Diodes | — | 1 | $0.50 | $0.50 | — |
 | Wire | — | 1 | $0.10 | $0.10 | — |
 | Screws | — | 1 | $0.00 | $0.00 | — |
-| Keycaps | — | 1 | $7.00 | $7.00 | — |
 | Solder Iron and stuff related to that | — | 1 | $3.20 | $3.20 | — |
 | Copper Wire for Matrix | — | 1 | $0.14 | $0.14 | — |
-| **Parts subtotal** | — | — | — | **$63.32** | — |
+| **Parts subtotal** | — | — | — | **$56.32** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$63.32** | — |
+| **Total** | — | — | — | **$56.32** | — |
 
-**$33.32 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$26.32 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
