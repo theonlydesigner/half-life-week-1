@@ -1,4 +1,4 @@
-Part,Quantity,No of items in 1 unit,Price,Total Price(With Shipping),
+Part,Quantity,No of items in 1 unit,Price w/o shipping,Price,
 1uF Capacitor,1,2,0.1,0.1,
 0.1uF Capacitor,1,11,0.1,0.1,
 10uF Capacitor,1,2,0.1,0.1,
