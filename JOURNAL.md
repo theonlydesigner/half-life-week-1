@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 9.98h | 13 |
+| Week 1 | Tier 1 | 10.18h | 13 |
 
 ## Contents
 
@@ -112,7 +112,7 @@ i had to pause every 5 minutes to watch multiple youtube tutorials on KiCad trac
 
 ### 2026-10-07 — So I finished it all off by creating the BOM and finding these freaking components which were genuinely so hard to find that I felt like a cyber crime investigator. Also I planned making a hackpad wit
 
-**1.5h**
+**1.7h**
 
 So I finished it all off by creating the BOM and finding these freaking components which were genuinely so hard to find that I felt like a cyber crime investigator. Also I planned making a hackpad with this devboard but I soon realised I won't get enough grant to make it so I dropped the idea unfortunately after finding all the resources for it. I then wrote the readme files and organised the project structure.
 
