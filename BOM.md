@@ -30,9 +30,8 @@
 | 12MHz Crystal | — | 1 | $0.39 | $0.39 | — |
 | PCB w/ Stencil | — | 1 | $10.00 | $10.00 | — |
 | Solder Paste | — | 1 | $3.00 | $3.00 | — |
-| Tweezers | — | 1 | $1.80 | $1.80 | — |
-| **Parts subtotal** | — | — | — | **$24.08** | — |
+| **Parts subtotal** | — | — | — | **$22.28** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$24.08** | — |
+| **Total** | — | — | — | **$22.28** | — |
 
-$5.92 left of the tier's funding.
+$7.72 left of the tier's funding.
